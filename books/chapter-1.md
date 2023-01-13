@@ -63,7 +63,34 @@ She was a tall，fat woman，thirty years old．
 `thirty years old`，这三个单独的形容词，构成的是一个意义单元，表示三十岁大，是一个形容词片语；如果想用于修饰名词，则需要把它用 `-` 改造成一个单独的形容词，`thirty-year-old`。
 
 > NEXT: 代名词是什么？
+> NEXT: 人称？
 
 ## 句子五
 
 It was the hottest day of the year，but she wore a warm brown skirt and yellow shirt．She went into the kitchen to get a drink of water．Just then the phone rang．
+
+### 解析
+
+`It was the hottest day of the year，but she wore a warm brown skirt and yellow shirt．` 这句大致一看，发现有一个 `but` 对等连接词，它连接了两个完整的单句（完整指每个句子都有主词，动词等），这种的叫[对等子句](https://grammar.codeyu.com/?dt_dapp=1#docs/CompoundSentences)。
+
+`She went into the kitchen to get a drink of water．` 中 `to get a drink of water` 是[不定词片语](https://grammar.codeyu.com/?dt_dapp=1#docs/Infinitive)，作为副词修饰 `went`。
+
+`Just then the phone rang．` 中 `Just then` 是个时间副词片语，时间副词片语是可以放在句首的。
+
+## 句子六
+
+'Cambridge 1379，'Jackie said．
+
+'Hello．This is Diane．I want to talk to Mother．'
+
+'Mother isn't here，'Jackie said．'She's at the doctor's．'
+
+'Why？What's Wrong？'
+
+'Nothing's wrong，'Jackie said．'Why are you telephoning？ You are going to come this weekend？ Mother wants everyone to be here．'
+
+'Yes，I want to come，'Diane said．'I'm phoning because I have no money for the train ticket．'
+
+'No money！Mother is always giving you money！'
+
+'This phone call is very expensive，'Diane said coldly．'Tell Mother please．I need the money．'
